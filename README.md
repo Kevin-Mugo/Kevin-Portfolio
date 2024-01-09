@@ -1,4 +1,4 @@
-# Data Scientist
+# Welcome to My Data Science Portfolio 🚀
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
