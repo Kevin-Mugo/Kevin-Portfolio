@@ -1,6 +1,6 @@
 # Welcome to My Data Science Portfolio 🚀
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Hello there! 👋 I'm [Your Name], an aspiring data scientist passionate about transforming raw data into meaningful insights. In this repository, you'll find a collection of projects showcasing my skills in data analysis, machine learning, and data visualization. I am eager to leverage my knowledge in statistics, programming, and problem-solving to tackle real-world challenges.
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
