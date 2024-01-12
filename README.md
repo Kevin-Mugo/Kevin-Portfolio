@@ -17,6 +17,9 @@
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
+
+1. [Predictive Modeling for House Prices](link-to-house-price-project): Implemented a machine learning model to predict house prices based on various features.
+   
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
