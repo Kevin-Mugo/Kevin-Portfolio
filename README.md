@@ -2,8 +2,28 @@
 
 #### Hello there! 👋 I'm Kevin Mugo, an aspiring data scientist passionate about transforming raw data into meaningful insights. In this repository, you'll find a collection of projects showcasing my skills in data analysis, machine learning, and data visualization. I am eager to leverage my knowledge in statistics, programming, and problem-solving to tackle real-world challenges.
 
+## Projects
+
+1. [Predictive Modeling for House Prices](link-to-house-price-project): Implemented a machine learning model to predict house prices based on various features.
+
 ## Education
-- Bsc , Computer Science | Egerton University (_October 2023_)								       		
+- Bsc , Computer Science | Egerton University (_October 2023_)
+
+## Skills
+
+- Programming Languages: Python, R
+- Data Analysis: Pandas, NumPy
+- Machine Learning: Scikit-learn, TensorFlow
+- Data Visualization: Matplotlib, Seaborn
+- Database: SQL
+- Other: Jupyter Notebooks, Git
+
+## Technologies
+
+- Python
+- Jupyter Notebooks
+- Git
+- TensorFlow
 
 
 ## Work Experience
@@ -15,9 +35,7 @@
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
-## Projects
 
-1. [Predictive Modeling for House Prices](link-to-house-price-project): Implemented a machine learning model to predict house prices based on various features.
    
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
