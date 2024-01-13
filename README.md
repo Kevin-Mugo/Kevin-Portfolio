@@ -3,9 +3,8 @@
 #### Hello there! 👋 I'm Kevin Mugo, an aspiring data scientist passionate about transforming raw data into meaningful insights. In this repository, you'll find a collection of projects showcasing my skills in data analysis, machine learning, and data visualization. I am eager to leverage my knowledge in statistics, programming, and problem-solving to tackle real-world challenges.
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Bsc , Computer Science | Egerton University (_October 2023_)								       		
+
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
