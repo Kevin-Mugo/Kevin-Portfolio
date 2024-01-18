@@ -1,10 +1,10 @@
 # Welcome to My Data Science Portfolio 🚀
 
-#### Hello there! 👋 I'm Kevin Mugo, an aspiring data scientist passionate about transforming raw data into meaningful insights. In this repository, you'll find a collection of projects showcasing my skills in data analysis, machine learning, and data visualization. I am eager to leverage my knowledge in statistics, programming, and problem-solving to tackle real-world challenges.
+## Hello there! 👋 I'm Kevin Mugo, an aspiring data scientist passionate about transforming raw data into meaningful insights. In this repository, you'll find a collection of projects showcasing my skills in data analysis, machine learning, and data visualization. I am eager to leverage my knowledge in statistics, programming, and problem-solving to tackle real-world challenges.
 
-## Projects
+##Projects
 
-1. [Predictive Modeling for House Prices](link-to-house-price-project): Implemented a machine learning model to predict house prices based on various features.
+1. [Predictive Modeling for House Prices](https://github.com/anzykenya/Housing_predictions-model): Implemented a machine learning model to predict house prices based on various features.
 
 ## Education
 - Bsc , Computer Science | Egerton University (_October 2023_)
