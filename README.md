@@ -1,16 +1,16 @@
 # Welcome to My Data Science Portfolio 🚀
 
-## Hello there! 👋 I'm Kevin Mugo, an aspiring data scientist passionate about transforming raw data into meaningful insights. In this repository, you'll find a collection of projects showcasing my skills in data analysis, machine learning, and data visualization. I am eager to leverage my knowledge in statistics, programming, and problem-solving to tackle real-world challenges.
+#### Hello there! 👋 I'm Kevin Mugo, an aspiring data scientist passionate about transforming raw data into meaningful insights. In this repository, you'll find a collection of projects showcasing my skills in data analysis, machine learning, and data visualization. I am eager to leverage my knowledge in statistics, programming, and problem-solving to tackle real-world challenges.
 
-##Projects
+## Projects
 
-1. [Predictive Modeling for House Prices](https://github.com/anzykenya/Housing_predictions-model): Implemented a machine learning model to predict house prices based on various features.
-2. [Candy data analysis ](https://github.com/anzykenya/Candy-data-analyis): Analysis of candy data with visualizations performed using scatter plots.
-3. [Gaming data analysis  ](https://github.com/anzykenya/Gaming-data-analysis): Visualization of gaming data using bar charts and heat maps after data cleaning.
-4. [Starbucks outlets analysis  ](https://github.com/anzykenya/Starbucks-Analysis): exploratory data analysis to investigate demographics of various counties in California state , to determine suitable locations for new outlets.
-5. [Medical data  analysis  ](https://github.com/anzykenya/Medical-data-analysis): Visualizing and making calculations from medical examination data using matplotlib, seaborn, and pandas.
-6. [Feature engineering  ](https://github.com/anzykenya/Feature-engineering1):Developing the features identified as having the most potential and make sense from a real-world perspective, and whether there are any useful combinations that stand out.
-7. [Stochastic gradient descent for a machine leaarning model  ](https://github.com/anzykenya/SGD/blob/main/SGD.ipynb):Training a neural network on the Fuel Economy dataset
+- [Predictive Modeling for House Prices](https://github.com/anzykenya/Housing_predictions-model): Implemented a machine learning model to predict house prices based on various features.
+- [Candy data analysis ](https://github.com/anzykenya/Candy-data-analyis): Analysis of candy data with visualizations performed using scatter plots.
+- [Gaming data analysis  ](https://github.com/anzykenya/Gaming-data-analysis): Visualization of gaming data using bar charts and heat maps after data cleaning.
+- [Starbucks outlets analysis  ](https://github.com/anzykenya/Starbucks-Analysis): exploratory data analysis to investigate demographics of various counties in California state , to determine suitable locations for new outlets.
+- [Medical data  analysis  ](https://github.com/anzykenya/Medical-data-analysis): Visualizing and making calculations from medical examination data using matplotlib, seaborn, and pandas.
+- [Feature engineering  ](https://github.com/anzykenya/Feature-engineering1):Developing the features identified as having the most potential and make sense from a real-world perspective, and whether there are any useful combinations that stand out.
+- [Stochastic gradient descent for a machine leaarning model  ](https://github.com/anzykenya/SGD/blob/main/SGD.ipynb):Training a neural network on the Fuel Economy dataset
    
 
 ## Skills
@@ -34,8 +34,14 @@
 
 ## Certifications
 
-- **Certification 1:** Name of Certification, Issuing Organization
-- **Certification 2:** Name of Certification, Issuing Organization
+- **Certification 1:** Data Analysis with Python, FreeCodeCamp.
+- **Certification 2:** Big Data, IBM.
+- **Certification 3:** Data Science Methodology, IBM.
+- **Certification 4:** SQL and Relational Databases, IBM.
+- **Certification 5:** Python, Kaggle.
+- **Certification 6:** Introduction to Machine Learning, Kaggle.
+- **Certification 3:** Responsive web design, FreeCodeCamp.
+  
 
 ## Work Experience
 **ICT attachment @ Ministry of Agriculture, Livestock, Fisheries, and Cooperatives  (_May 2023-July 2023  _)**
