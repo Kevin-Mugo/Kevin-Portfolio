@@ -40,7 +40,7 @@
 - **Certification 4:** SQL and Relational Databases, IBM.
 - **Certification 5:** Python, Kaggle.
 - **Certification 6:** Introduction to Machine Learning, Kaggle.
-- **Certification 3:** Responsive web design, FreeCodeCamp.
+- **Certification 7:** Responsive web design, FreeCodeCamp.
   
 
 ## Work Experience
