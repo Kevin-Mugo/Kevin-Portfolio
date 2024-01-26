@@ -15,7 +15,7 @@
 
 ## Skills
 
-- Programming Languages: Python, R
+- Programming Languages: Python.
 - Data Analysis: Pandas, NumPy
 - Machine Learning: Scikit-learn, TensorFlow
 - Data Visualization: Matplotlib, Seaborn
