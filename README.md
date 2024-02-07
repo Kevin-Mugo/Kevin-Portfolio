@@ -4,6 +4,7 @@
 
 ## Projects
 - [Customer segmentation modelling](https://github.com/anzykenya/Customer-Segmenation): This repository shows a customer segmentation project which utilizes data analysis , machine learning and visualizations . The goal is to find the most profitable customer group within the entire pool of customers.
+- [Credit Scoring for financial institutions](https://github.com/anzykenya/Credit-scoring-Project): This repository includes a credit scoring project which utilizes machine learning and statistical analysis to classify bad and good loans based on various features .
 - [Predictive Modeling for House Prices](https://github.com/anzykenya/Housing_predictions-model): Implemented a machine learning model to predict house prices based on various features.
 - [Candy data analysis ](https://github.com/anzykenya/Candy-data-analyis): Analysis of candy data with visualizations performed using scatter plots.
 - [Gaming data analysis  ](https://github.com/anzykenya/Gaming-data-analysis): Visualization of gaming data using bar charts and heat maps after data cleaning.
