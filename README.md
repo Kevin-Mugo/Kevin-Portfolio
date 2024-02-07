@@ -3,7 +3,7 @@
 #### Hello there! 👋 I'm Kevin Mugo, a data scientist passionate about transforming raw data into meaningful insights. In this repository, you'll find a collection of projects showcasing my skills in data analysis, machine learning, and data visualization. I am passionate about data science and its applications to solve real-world problems.
 
 ## Projects
-
+- [Customer segmentation modelling](https://github.com/anzykenya/Customer-Segmenation): This repository shows a customer segmentation project which utilizes data analysis , machine learning and visualizations . The goal is to find the most profitable customer group within the entire pool of customers.
 - [Predictive Modeling for House Prices](https://github.com/anzykenya/Housing_predictions-model): Implemented a machine learning model to predict house prices based on various features.
 - [Candy data analysis ](https://github.com/anzykenya/Candy-data-analyis): Analysis of candy data with visualizations performed using scatter plots.
 - [Gaming data analysis  ](https://github.com/anzykenya/Gaming-data-analysis): Visualization of gaming data using bar charts and heat maps after data cleaning.
