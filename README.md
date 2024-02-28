@@ -8,13 +8,13 @@ visualization tools (Seaborn and Matplotlib) to identify and target high-value c
 
 - [Credit Scoring for financial institutions](https://github.com/anzykenya/Credit-scoring-Project): Executed a credit scoring project for financial institutions, implementing statistical analysis and machine learning to classify loans as good or bad based on diverse features. Achieved an 82% accuracy rate for the model, enhancing risk assessment capabilities.
   
-- - [Python Data Cleaning](https://github.com/anzykenya/Housing_predictions-model): Executed a comprehensive data cleaning project on the FIFA21 dataset, addressing various issues identified during exploration and analysis. Leveraged Python, Pandas, NumPy, and Jupyter Notebooks to enhance data quality and consistency.
+- [Python Data Cleaning](https://github.com/anzykenya/Python_data_cleaning.): Executed a comprehensive data cleaning project on the FIFA21 dataset, addressing various issues identified during exploration and analysis. Leveraged Python, Pandas, NumPy, and Jupyter Notebooks to enhance data quality and consistency.
 
-- ****Thoroughly examined dataset structure and columns, creating a data dictionary from online sources to understand attribute meanings.
-- ****Conducted Exploratory Data Analysis (EDA) to gain insights, identify patterns, and uncover anomalies.
-- ****Addressed missing values in the 'Hits' and 'Loan Date End' columns with careful computation based on the nature of the data.
-- ****Resolved inconsistent formatting, particularly in the 'Heights' and 'Weights' columns, by applying transformations, lambda functions, and normalization techniques.
-- ****Implemented validation and quality checks to ensure the cleaned dataset's integrity, accuracy, and overall quality.
+    1.Thoroughly examined dataset structure and columns, creating a data dictionary from online sources to understand attribute meanings.
+    2.Conducted Exploratory Data Analysis (EDA) to gain insights, identify patterns, and uncover anomalies.
+    3.Addressed missing values in the 'Hits' and 'Loan Date End' columns with careful computation based on the nature of the data.
+    4.Resolved inconsistent formatting, particularly in the 'Heights' and 'Weights' columns, by applying transformations, lambda functions, and normalization techniques.
+    5.Implemented validation and quality checks to ensure the cleaned dataset's integrity, accuracy, and overall quality.
   
 This data cleaning initiative aims to provide a reliable foundation for future analyses and modeling tasks related to the FIFA21 dataset to ensure 99% accuracy on insights generated.
 
