@@ -3,8 +3,21 @@
 #### Hello there! 👋 I'm Kevin Mugo, a data scientist passionate about transforming raw data into meaningful insights. In this repository, you'll find a collection of projects showcasing my skills in data analysis, machine learning, and data visualization. I am passionate about data science and its applications to solve real-world problems.
 
 ## Projects
-- [Customer segmentation modelling](https://github.com/anzykenya/Customer-Segmenation): This repository shows a customer segmentation project which utilizes data analysis , machine learning and visualizations . The goal is to find the most profitable customer group within the entire pool of customers.
-- [Credit Scoring for financial institutions](https://github.com/anzykenya/Credit-scoring-Project): This repository includes a credit scoring project which utilizes machine learning and statistical analysis to classify bad and good loans based on various features .
+- [Customer segmentation modelling](https://github.com/anzykenya/Customer-Segmenation): Executed a customer segmentation modeling project utilizing data analysis and machine learning, optimizing strategies to increase profits by 35%. Utilized Python, Scikit-Learn, and 
+visualization tools (Seaborn and Matplotlib) to identify and target high-value customer segments effectively.
+
+- [Credit Scoring for financial institutions](https://github.com/anzykenya/Credit-scoring-Project): Executed a credit scoring project for financial institutions, implementing statistical analysis and machine learning to classify loans as good or bad based on diverse features. Achieved an 82% accuracy rate for the model, enhancing risk assessment capabilities.
+  
+- - [Python Data Cleaning](https://github.com/anzykenya/Housing_predictions-model): Executed a comprehensive data cleaning project on the FIFA21 dataset, addressing various issues identified during exploration and analysis. Leveraged Python, Pandas, NumPy, and Jupyter Notebooks to enhance data quality and consistency.
+
+- ****Thoroughly examined dataset structure and columns, creating a data dictionary from online sources to understand attribute meanings.
+- ****Conducted Exploratory Data Analysis (EDA) to gain insights, identify patterns, and uncover anomalies.
+- ****Addressed missing values in the 'Hits' and 'Loan Date End' columns with careful computation based on the nature of the data.
+- ****Resolved inconsistent formatting, particularly in the 'Heights' and 'Weights' columns, by applying transformations, lambda functions, and normalization techniques.
+- ****Implemented validation and quality checks to ensure the cleaned dataset's integrity, accuracy, and overall quality.
+  
+This data cleaning initiative aims to provide a reliable foundation for future analyses and modeling tasks related to the FIFA21 dataset to ensure 99% accuracy on insights generated.
+
 - [Predictive Modeling for House Prices](https://github.com/anzykenya/Housing_predictions-model): Implemented a machine learning model to predict house prices based on various features.
 - [Candy data analysis ](https://github.com/anzykenya/Candy-data-analyis): Analysis of candy data with visualizations performed using scatter plots.
 - [Gaming data analysis  ](https://github.com/anzykenya/Gaming-data-analysis): Visualization of gaming data using bar charts and heat maps after data cleaning.
