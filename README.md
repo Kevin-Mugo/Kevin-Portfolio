@@ -16,7 +16,7 @@ visualization tools (Seaborn and Matplotlib) to identify and target high-value c
    - Resolved inconsistent formatting, particularly in the 'Heights' and 'Weights' columns, by applying transformations, lambda functions, and normalization techniques.
    - Implemented validation and quality checks to ensure the cleaned dataset's integrity, accuracy, and overall quality.
   
-This data cleaning initiative aims to provide a reliable foundation for future analyses and modeling tasks related to the FIFA21 dataset to ensure 99% accuracy on insights generated.
+   This data cleaning initiative aims to provide a reliable foundation for future analyses and modeling tasks related to the FIFA21 dataset to ensure 99% accuracy on insights generated.
 
 - [Medical data  analysis  ](https://github.com/anzykenya/Medical-data-analysis): Implemented a comprehensive medical data visualizer project on the medical examination dataset. Leveraged Python, Pandas, NumPy, Seaborn and Matplotlib  to enhance quality data processing and effective visualizations that are 100 % understandable . 
 
