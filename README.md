@@ -18,11 +18,22 @@ visualization tools (Seaborn and Matplotlib) to identify and target high-value c
   
 This data cleaning initiative aims to provide a reliable foundation for future analyses and modeling tasks related to the FIFA21 dataset to ensure 99% accuracy on insights generated.
 
+- [Medical data  analysis  ](https://github.com/anzykenya/Medical-data-analysis): Implemented a comprehensive medical data visualizer project on the medical examination dataset. Leveraged Python, Pandas, NumPy, Seaborn and Matplotlib  to enhance quality data processing and effective visualizations that are 100 % understandable . 
+
+   - Thoroughly examined dataset structure through the data dictionary provided to understand attribute meanings.
+   - Added an overweight column to the data. To determine if a person is overweight, first calculate their BMI by dividing their weight in kilograms by the square of their height in 
+     meters. If that value is > 25 then the person is overweight. Use the value 0 for NOT overweight and the value 1 for overweight.
+   - Normalized the data by making 0 always good and 1 always bad. If the value of cholesterol or gluc is 1, make the value 0. If the value is more than 1, make the value 1.
+   - Converted the data into long format and created a chart that shows the value counts of the categorical features using seaborn's catplot(). The dataset was split by 'Cardio' so there 
+     is one chart for each cardio value.
+   - Cleaning the data. Filtering out the following patient segments that represent incorrect data.
+   - Creating a correlation matrix using the dataset , plotting the correlation matrix using seaborn's heatmap() and masking the upper triangle.
+    
+
 - [Predictive Modeling for House Prices](https://github.com/anzykenya/Housing_predictions-model): Implemented a machine learning model to predict house prices based on various features.
 - [Candy data analysis ](https://github.com/anzykenya/Candy-data-analyis): Analysis of candy data with visualizations performed using scatter plots.
 - [Gaming data analysis  ](https://github.com/anzykenya/Gaming-data-analysis): Visualization of gaming data using bar charts and heat maps after data cleaning.
 - [Starbucks outlets analysis  ](https://github.com/anzykenya/Starbucks-Analysis): exploratory data analysis to investigate demographics of various counties in California state , to determine suitable locations for new outlets.
-- [Medical data  analysis  ](https://github.com/anzykenya/Medical-data-analysis): Visualizing and making calculations from medical examination data using matplotlib, seaborn, and pandas.
 - [Feature engineering  ](https://github.com/anzykenya/Feature-engineering1):Developing the features identified as having the most potential and make sense from a real-world perspective, and whether there are any useful combinations that stand out.
 - [Stochastic gradient descent for a machine leaarning model  ](https://github.com/anzykenya/SGD/blob/main/SGD.ipynb):Training a neural network on the Fuel Economy dataset
    
